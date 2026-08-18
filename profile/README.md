@@ -2,7 +2,7 @@
 
 This GitHub organization hosts the development of **CAMAT**, an open-source, Python-based toolbox for **interactive sheet music analysis**, as well as the **research corpora** produced within the project.
 
-Starting in **September 2025**, CAMAT will be **redeveloped and substantially extended** as part of the research project:
+Since **September 2025**, CAMAT is being **redeveloped and substantially extended** as part of the research project:
 
 > **A Comprehensive Cloud-Based Toolbox for Sheet Music Analysis**
 
