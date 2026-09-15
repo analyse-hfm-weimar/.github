@@ -62,7 +62,7 @@ The project runs from **September 2025 to August 2028**.
 
 - **Principal investigator:** Martin Pfleiderer
 - **Research and development:** [Egor Polyakov](https://github.com/egorpol)
-- **Research assistant:** Pia Steuck
+- **Research assistant:** [Pia Steuck](https://github.com/piasteuck)
 
 Edition contributors are credited in the
 [CAMAT documentation](https://camat-v2.readthedocs.io/en/stable/about/#student-assistants).
