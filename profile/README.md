@@ -60,7 +60,7 @@ the **German Research Foundation (DFG)**, programme Library and Information
 Services – E-Research Technologies (LIS), grant **PF 669/18-1**.
 The project runs from **September 2025 to August 2028**.
 
-- **Principal investigator:** Martin Pfleiderer
+- **Principal investigator:** [Martin Pfleiderer](https://www.hfm-weimar.de/geschichte-des-jazz-und-der-populaeren-musik/lehrende-und-mitarbeiterinnen/detailansicht/detail/prof-dr-martin-pfleiderer)
 - **Research and development:** [Egor Polyakov](https://github.com/egorpol)
 - **Research assistant:** [Pia Steuck](https://github.com/piasteuck)
 
